@@ -41,7 +41,7 @@ The sample text used for summarization is a comprehensive overview of climate ch
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/MubasharAli2020/Text-Summarization---NLP-Project.git
-   cd your-repo
+   cd Text-Summarization---NLP-Project
   
   2.  **Open the Notebook in Google Colab**:
     Upload the notebook to Google Colab or open it directly from GitHub.
